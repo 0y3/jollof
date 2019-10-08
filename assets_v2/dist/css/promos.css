@@ -1,0 +1,164 @@
+.emailtext,.savebtn { display: none;}
+    
+    
+    
+    .db_prdimg {
+        width: 70px;
+        height: 50px;
+    }
+    .O_Uplode {
+        position: relative;
+    }
+    .UplodeIcon {
+        position: absolute;
+        top: 8px;
+        left: 20px;
+        font-size: 20px;
+    }
+    .form-style-base {
+        position: absolute;
+        top: 0px;
+        z-index: 999;
+        opacity: 0;
+        cursor: pointer;
+    }
+    .form-style-fake {
+        top: 0px;
+        padding-left: 50px;
+    }
+    .Prd_UploadView {
+        border: 2px dashed #eaedf1;
+        background-color: #eee;
+        padding: 10px;
+        display:none;
+        position:relative;
+    }
+    .Prd_UploadView img{
+        max-width: 100px;
+        max-height: 90px;
+    }
+    .logo_UploadView{
+        border: 2px dashed #eaedf1;
+        background-color: #eee;
+        padding: 10px;
+        position:relative;
+    }
+    .logo_UploadView img{
+        max-width: 100px;
+        max-height: 90px;
+    }
+    .banner_UploadView{
+        border: 2px dashed #eaedf1;
+        background-color: #eee;
+        padding: 10px;
+        display: none;
+        position:relative;
+        overflow-x:  auto;
+    }
+    .banner_UploadView img{
+        max-width: 100%;
+        max-height:500px;
+    }
+    .promo_main img{
+        min-width: 1450px;
+        max-width: 100%;
+        max-height:500px;
+    }
+    .promo_cuisine_main img{
+        min-width: 1450px;
+        max-width: 100%;
+        height:500px;
+    }
+    .promo_cuisine_rest img{
+        width: 265px;
+        height: 430px;
+    }
+    
+    .cropped>img
+    {
+        margin-right: 10px;
+    }
+    .promomaincover{
+        min-width: 1550px;
+        max-width: 100%;
+        height:600px !important;
+    }
+    .promomain{
+        width: 1452px !important;
+        max-width: 100% !important;
+        height:502px !important;
+        top: 4% !important;
+        left: 3.3% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    .promocuisinemaincover{
+        min-width: 1550px;
+        max-width: 100%;
+        height:400px !important;
+    }
+    .promocuisinemain{
+        width: 1452px !important;
+        max-width: 100% !important;
+        height:302px !important;
+        top: 4% !important;
+        left: 3.3% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    .promocuisinerestcover{
+        min-width: 450px;
+        height: 550px !important;
+    }
+    .promocuisinerest{
+        width: 267px !important;
+        max-width: 100% !important;
+        height:432px !important;
+        top: 10.65% !important;
+        left: 20% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    
+    .promofashionhomepagecover{
+        min-width: 980px;
+        height: 560px !important;
+    }
+    .promofashionhomepage{
+        width: 872px !important;
+        max-width: 100% !important;
+        height:462px !important;
+        top: 8.60% !important;
+        left: 5.3% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    
+    .promofashionhomepagesidebarcover{
+        min-width: 450px;
+        height: 560px !important;
+    }
+    .promofashionhomepagesidebar{
+        width: 272px !important;
+        max-width: 100% !important;
+        height:462px !important;
+        top: 8.60% !important;
+        left: 20% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    .Gp_rmv {
+	position:absolute;
+	top:0px;
+	left:105px;
+	color:#F30;
+	cursor:pointer;
+    }
+    .Gp_rmv_banner{
+	position:absolute;
+	top:0px;
+	left:10px;
+	color:#F30;
+	cursor:pointer;
+    }
+    

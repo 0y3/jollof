@@ -1,0 +1,266 @@
+    
+    #cat_order,#cat_name {
+       /* width:100px; */
+    }
+    /*
+    #cat_order input,#cat_name input{
+        float: left;
+        width:100px; 
+    }*/
+    #variant_order, #variant_name, #variant_discount{
+        width:100px; 
+    }
+    #variant_order input,#variant_name input{
+        float: none; 
+        width:150px ; 
+    }
+    #variant_order input.numb, #variant_discount input{
+        width:130px ; 
+    }
+    #variant_order a,#variant_name a, #variant_discount a{
+        float: left;
+        width:40px; 
+    }
+    #variant_name,#variant_order,#variant_status, #variant_discount {
+        position: absolute;
+        display:none;
+    }
+    .color_span {
+      -moz-border-radius: 50%;
+      -webkit-border-radius: 50%;
+      border-radius: 50%;
+      display: block;
+      height:30px;
+      position: relative;
+      width:30px;
+      vertical-align: middle;
+    }
+    .colorname_span{
+        position: relative;
+        left: 20px;
+        top: -25px;
+    }
+    .O_Uplode {
+        position: relative;
+    }
+    .UplodeIcon {
+        position: absolute;
+        top: 8px;
+        left: 20px;
+        font-size: 20px;
+    }
+    .form-style-base {
+        position: absolute;
+        top: 0px;
+        z-index: 999;
+        opacity: 0;
+        cursor: pointer;
+    }
+    .form-style-fake {
+        top: 0px;
+        padding-left: 50px!important;
+    }
+    
+    .multiselect-native-select .dropdown-toggle::after {
+        display: inline-block;
+        margin-left: .255em;
+        border-top: .3em solid;
+        border-right: unset;
+        border-bottom: 0;
+        border-left: unset;
+    }
+    .multiselect-native-select ul.multiselect-container {
+        right:0px;
+    }
+    
+    .preview-images-zone {
+        width: 100%;
+        border: 1px solid #ddd;
+        min-height: 280px;
+        /* display: flex; */
+        padding: 5px 5px 0px 5px;
+        position: relative;
+        overflow:auto;
+    }
+    .preview-images-zone > .preview-image:first-child {
+        height: 285px;
+        width: 285px;
+        position: relative;
+        margin-right: 5px;
+    }
+    .preview-images-zone > .preview-image {
+        height: 140px;
+        width:  135px;
+        position: relative;
+        margin-right: 5px;
+        float: left;
+        margin-bottom: 5px;
+    }
+    .preview-images-zone > .preview-image > .image-zone {
+        width: 100%;
+        height: 100%;
+    }
+    .preview-images-zone > .preview-image > .image-zone > img {
+        width: 100%;
+        height: 100%;
+    }
+    .preview-images-zone > .preview-image > .tools-edit-image {
+        position: absolute;
+        z-index: 100;
+        color: #fff;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+        display: none;
+    }
+    .preview-images-zone > .preview-image > .image-cancel {
+        font-size: 18px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        font-weight: bold;
+        margin-right: 10px;
+        cursor: pointer;
+        display: none;
+        z-index: 100;
+    }
+    .preview-image:hover > .image-zone {
+        cursor: move;
+        opacity: .5;
+    }
+    .preview-image:hover > .tools-edit-image,
+    .preview-image:hover > .image-cancel {
+        display: block;
+    }
+    .ui-sortable-helper {
+        width: 90px !important;
+        height: 90px !important;
+    }
+    
+    
+    .Gp_rmv_banner {
+        position: absolute;
+        top: 0px;
+        left: 10px;
+        color: #F30;
+        cursor: pointer;
+    }
+    .banner_UploadView{
+        border: 2px dashed #eaedf1;
+        background-color: #eee;
+        padding: 10px;
+        display: none;
+        position:relative;
+    }
+    .banner_UploadView img{
+        max-width: 100%;
+        max-height:500px;
+    }
+    
+    .slider_homebanner img{
+        min-width: 1450px;
+        max-width: 100%;
+        max-height:500px;
+    }
+    .slider_homecenter img{
+        width: 285px;
+        height: 213px;
+    }
+    .slider_resslider img{
+        width: 265px;
+        height: 430px;
+    }
+    
+    
+    .savebtn { display: none;}
+    .promomaincover{
+        min-width: 1550px;
+        max-width: 100%;
+        height:600px !important;
+    }
+    .promomain{
+        width: 1452px !important;
+        max-width: 100% !important;
+        height:502px !important;
+        top: 4% !important;
+        left: 3.3% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    .promocuisinemain{
+        min-width: 1550px;
+        max-width: 100%;
+        height:600px !important;
+    }
+    .promocuisinerestcover{
+        min-width: 450px;
+        height: 550px !important;
+    }
+    .promocuisinerest{
+        width: 267px !important;
+        max-width: 100% !important;
+        height:432px !important;
+        top: 10.65% !important;
+        left: 20% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    
+    .productimgcover{
+        min-width: 700px;
+        max-width: 100%;
+        height:700px !important;
+    }
+    .productimg{
+        width: 572px !important;
+        max-width: 100% !important;
+        height:572px !important;
+        top: 9% !important;
+        left: 9% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+    }
+    .cuisineproductimgcover {
+        min-width: 120px;
+        max-width: 100%;
+        height: 120px !important;
+    }
+    .cuisineproductimg {
+        width: 102px !important;
+        max-width: 100% !important;
+        height: 102px !important;
+        top: 6.79% !important;
+        left: 37.15% !important;
+        margin-top: 0px !important;
+        margin-left: 0px !important;
+        
+    .modal_dialog_edit{
+        max-width: 100%;
+        display: table;
+    }
+    .ajax-loader {
+        visibility: hidden;
+        background-color: rgba(255,255,255,0.7);
+        position: absolute;
+        z-index: 99999 !important;
+        overflow: hidden;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height:100%;
+    }
+
+    .ajax-loader img {
+        position: relative;
+        top:50%;
+        left:50%;
+    }
+    .loader .is-active{
+        background-color: rgba(255,255,255,0.7) !important;
+    }
+    .loader img {
+        position: relative;
+        top:50%;
+        left:50%;
+    }

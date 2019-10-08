@@ -1,0 +1,714 @@
+
+/* Import fonts */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+
+@import url(line-icons.css);
+
+
+
+body {
+
+
+    padding: 0px !important;
+
+    margin: 0px !important;   
+
+}
+ .bor { border: solid red thin;}
+
+label{
+
+    font-weight: 300;   
+
+}
+
+ul li {
+
+    list-style: none;
+
+}
+
+
+
+a, a:hover, a:focus {
+
+    text-decoration: none;
+
+    outline: none;
+
+    outline: 0;
+
+}
+
+input:focus, textarea:focus { outline: none; }
+
+table tr th { color: #688a7e;}
+
+*:focus {outline: none;}
+
+::selection {
+
+    background: #688a7e;
+
+    color: #fff;
+
+}
+
+::-moz-selection {
+
+    background: #688a7e;
+
+    color: #fff;
+
+}
+
+/*login page*/
+
+
+
+.login-body {
+
+    background-color: #f1f2f7;
+
+}
+
+.login-img-bodyme{
+
+  background: url('../img/bg-1.jpg') no-repeat center center fixed; 
+
+  -webkit-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+
+  background-size: cover;
+
+}
+
+.login-img2-bodyme{
+
+  background: url('../img/bg-1.jpg') no-repeat center center fixed; 
+
+  -webkit-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+
+  background-size: cover;
+
+}
+
+.login-img3-bodyme{
+
+  background: url('../img/bg-1.jpg') no-repeat center center fixed; 
+
+  -webkit-background-size: cover;
+
+  -moz-background-size: cover;
+
+  -o-background-size: cover;
+
+  background-size: cover;
+
+}
+
+
+
+.login-form {
+
+    max-width: 350px;
+
+    margin: 150px auto 0;
+
+    background: #d5d7de;    
+
+}
+
+.login-img-bodyme .login-form{
+
+    max-width: 350px;
+
+    margin: 150px auto 0;
+
+    background: rgba(213,215,222,0.4);
+
+    border: 1px solid #B0B6BE;
+
+}
+
+.login-img2-bodyme .login-form{
+
+    border: 1px solid #B0B6BE;
+
+    background: rgba(213,215,222,0.7);
+
+}
+
+.login-img3-bodyme .login-form{
+
+    border: 1px solid #B0B6BE;
+
+    background: rgba(213,215,222,0.9);
+
+}
+
+.login-form a{
+
+    color: #688a7e !important;
+
+}
+
+.login-form h2.login-form-heading {
+
+    margin: 0;
+
+    padding:20px 15px;
+
+    text-align: center;
+
+    background: #34aadc;
+
+    border-radius: 5px 5px 0 0;
+
+    -webkit-border-radius: 5px 5px 0 0;
+
+    color: #fff;
+
+    font-size: 18px;
+
+    text-transform: uppercase;
+
+    font-weight: 300;
+
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+
+.login-form .checkbox {
+
+    margin-bottom: 14px;
+
+}
+
+.login-form .checkbox {
+
+    font-weight: normal;    
+
+    font-weight: 300;
+
+    font-family: 'Lato', sans-serif;
+
+}
+
+.login-form .form-control {
+
+    position: relative;
+
+    font-size: 16px;
+
+    height: auto;
+
+    padding: 10px;
+
+    -webkit-box-sizing: border-box;
+
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+}
+
+.login-form .form-control:focus {
+
+    z-index: 2;
+
+}
+
+.login-form .login-img{
+
+    font-size: 50%;
+
+    font-weight: 300;    
+
+    
+}
+.login-imgme {
+
+    font-size: 200%;
+    font-weight: 300;
+    color: #2b2b2b;
+}
+.login_imgme_icon {
+    padding-left: 20px;
+    font-size: 105%;
+    color: #dc4e41;
+}
+
+.login-form .input-group{
+
+    padding-bottom: 15px;
+
+}
+
+.login-form .input-group-addon{
+
+    padding: 6px 12px;
+
+    font-size: 16px;
+
+    color: #8b9199;
+
+    font-weight: normal;
+
+    line-height: 1;
+
+    text-align: center;
+
+    background-color: #ffffff;
+
+    border: none;
+
+    border-radius: 0;
+
+}
+
+.login-form input[type="text"], .login-form input[type="password"] {    
+
+    border: none;
+
+    box-shadow: none;
+
+    font-size: 16px;
+
+    border-radius: 0; 
+
+}
+
+.login-form .btn{
+
+    border-radius: 0;
+
+}
+
+.login-form .btn-login {
+
+    background: #f67a6e;
+
+    color: #fff;
+
+    text-transform: uppercase;
+
+    font-weight: 300;
+
+    font-family: 'Lato', sans-serif;
+
+    box-shadow: 0 4px #e56b60;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.login-form p {
+
+    text-align: center;
+
+    color: #b6b6b6;
+
+    font-size: 16px;
+
+    font-weight: 300;
+
+}
+
+.login-img3-bodyme .login-form p,.login-img2-bodyme .login-form p {
+
+    color: #34aadc;
+
+}
+
+.login-form a {
+
+    color: #b6b6b6;
+
+}
+
+
+
+.login-form a:hover {
+
+    color: #34aadc;
+
+}
+
+.form .required{
+
+    font-size: 16px;
+
+    color: #00a0df;
+
+}
+
+
+
+.login-wrap {
+
+    padding: 20px;
+
+}
+
+
+
+.login-social-link  {
+
+    display: inline-block;
+
+    margin-top: 20px;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.login-social-link a {
+
+    color: #fff;
+
+    padding: 15px 28px;
+
+    border-radius: 4px;
+
+}
+
+
+
+.login-social-link a:hover {
+
+    color: #fff;
+
+}
+
+
+
+.login-social-link a i {
+
+    font-size: 20px;
+
+    padding-right: 10px;
+
+}
+
+
+
+.login-social-link a.facebook {
+
+    background: #5193ea;
+
+    margin-right: 22px;
+
+    box-shadow: 0 4px #2775e2;
+
+	float:left;
+
+}
+
+
+
+.login-social-link a.twitter {
+
+    background: #44ccfe;
+
+    box-shadow: 0 4px #2bb4e8;
+
+	float:left;
+
+}
+
+.login-wrap .login-blockme h3 {
+    font-size: 1em !important ;
+    color: #000 ;
+    text-align: center;
+    margin-top: 1em;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+.login-blockme h3 a{
+	color:#dc4e41 !important;
+}
+.login-blockme h3 a:hover{
+    color:#1f66cb !important;
+}
+.login-blockme h5 {
+    font-size: 1em;
+    text-align: right;
+    margin-top: 1em;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+.login-blockme h5 a {
+    color: #FC8213;
+    text-decoration: underline;
+}
+.login-blockme h5 a:hover {
+    color: #68AE00;
+    text-decoration: underline;
+}
+.login-blockme h2 {
+    color: #68AE00;
+    font-size: 0.975em;
+    margin: 1.0em 0;
+    text-align: center;
+    font-family: 'Carrois Gothic', sans-serif;
+}
+
+/*--*/
+.login-icons ul {
+	text-align:center;
+        padding: 0px;
+        margin: 0px;
+}
+.login-icons ul li{
+    display: inline-block;
+    margin: 0 0.5em;
+}
+.login-icons ul li a{
+	display:block;
+}
+.login-icons i.fa.fa-facebook, .login-icons i.fa.fa-twitter, .login-icons i.fa.fa-google-plus {
+    font-size: 1em;
+    color: #FFFFFF;
+    width: 33px;
+    height: 33px;
+    line-height: 34px;
+    vertical-align: middle;
+    background: #3b5998;
+    transition: 0.5s all;
+}
+.login-icons i.fa.fa-facebook:hover, .login-icons i.fa.fa-twitter:hover, .login-icons i.fa.fa-google-plus:hover {
+	 border-radius: 35px;
+}
+.login-icons i.fa.fa-twitter{
+	background:#55acee;
+}
+.login-icons i.fa.fa-google-plus{
+	background:#dc4e41;
+}
+.login-icons i.fa.fa-dribbble{
+	background:#ea4c89;
+}
+
+
+
+
+/*form styles*/
+#msform {
+    
+    max-width: 390px;
+    /*width: 400px;*/
+    margin: 30px auto 0;
+    text-align: center;
+    position: relative;
+    
+}
+#msform fieldset {
+    
+    background: rgba(213,215,222,0.7);
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 0px 20px 20px 20px;
+    box-sizing: border-box;
+/*    width: 100%;
+    margin: 0 10%;*/
+    /*stacking fieldsets above each other*/
+    position: absolute;
+}
+/*Hide all except first fieldset*/
+#msform fieldset:not(:first-of-type) {
+    display: none;
+}
+/*inputs*/
+#msform input, #msform textarea {
+/*   padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 13px;*/
+}
+#msform .form_input{
+    padding-bottom: 15px;
+}
+#msform .input-group{
+    padding-bottom: 5px;
+}
+
+#msform .input-group-addon{
+
+    padding: 6px 12px;
+
+    font-size: 15px;
+
+    color: #8b9199;
+
+    font-weight: normal;
+
+    line-height: 1;
+
+    text-align: center;
+
+    background-color: #ffffff;
+
+    border: none;
+
+    border-radius: 3px 0 0 3px;
+    
+
+}
+
+#msform input[type="text"], #msform input[type="email"], #msform input[type="password"] {    
+
+    padding: 20px;
+    border: none;
+    border-radius:0 3px 3px 0;
+    box-sizing: border-box;
+    font-family: montserrat;
+    color: #2C3E50;
+    font-size: 16px;
+
+}
+
+/*buttons*/
+#msform .action-button {
+width: 100px;
+background: #27AE60;
+font-weight: bold;
+color: white;
+border: 0 none;
+border-radius: 1px;
+cursor: pointer;
+padding: 10px 5px;
+margin: 10px 5px;
+}
+#msform .action-button:hover, #msform .action-button:focus {
+box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+/*headings*/
+.fs-title {
+font-size: 15px;
+text-transform: uppercase;
+color: #2C3E50;
+margin-bottom: 10px;
+}
+.fs-subtitle {
+font-weight: normal;
+font-size: 13px;
+color: #666;
+margin-bottom: 20px;
+}
+/*progressbar*/
+#progressbar {
+    margin-bottom: 30px;
+    overflow: hidden;
+    padding: 0px;
+    background: rgba(213,215,222,0.9);
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+    padding: 5px 0px;
+    box-sizing: border-box;
+    /*CSS counters to number the steps*/
+    counter-reset: step;
+}
+#progressbar li {
+    list-style-type: none;
+    color:#dc4e41;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 9px;
+    width: 33.33%;
+    float: left;
+    position: relative;
+}
+#progressbar li:before {
+    content: counter(step);
+    counter-increment: step;
+    width: 20px;
+    line-height: 20px;
+    display: block;
+    font-size: 10px;
+    color: #333;
+    background: white;
+    border-radius: 3px;
+    margin: 0 auto 5px auto;
+}
+/*progressbar connectors*/
+#progressbar li:after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: white;
+    position: absolute;
+    left: -50%;
+    top: 9px;
+    z-index: -1; /*put it behind the numbers*/
+}
+#progressbar li:first-child:after {
+    /*connector not needed before the first step*/
+    content: none;
+}
+/*marking active/completed steps green*/
+/*The number of the step and the connector before it = green*/
+#progressbar li.active:before, #progressbar li.active:after {
+    background: #27AE60;
+    color: white;
+}
+.conf_email{
+   font-weight: 800;
+   font-size: 20px;
+   color: #000;
+}
+
+
+
+
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+    
+    .login-form, #msform {
+        margin: 100px auto 0;
+    }
+    .login-imgme {
+        font-size: 180%;
+    }
+      
+}

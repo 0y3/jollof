@@ -1,0 +1,217 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-02 13:49:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:49:47 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:49:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:49:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:49:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:49:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:51:30 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 13:51:44 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:51:44 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:51:44 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:05 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:05 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:05 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:52:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:53:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-02 13:53:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:27 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 13:55:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:55:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-02 13:55:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:55:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:56:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-02 13:56:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:56:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-02 13:56:24 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 13:56:25 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 14:02:35 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 14:02:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 14:02:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 14:02:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 21:54:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 21:54:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 21:54:41 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:02:21 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:02:21 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:02:21 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:02:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:15:14 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:16:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:16:39 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:17:13 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:17:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:28:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:28:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:28:59 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:32:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:32:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:32:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 22:33:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2018-11-02 22:33:10 --> 404 Page Not Found: Img/favicon.png
+ERROR - 2018-11-02 22:33:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\jollof_admin\layout.php 611
+ERROR - 2018-11-02 22:33:21 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\jollof_admin\layout.php 638
+ERROR - 2018-11-02 22:33:34 --> 404 Page Not Found: jollofadmin/Banners/undefined
+ERROR - 2018-11-02 22:33:37 --> 404 Page Not Found: jollofadmin/Banners/undefined
+ERROR - 2018-11-02 22:33:43 --> 404 Page Not Found: jollofadmin/Banners/undefined
+ERROR - 2018-11-02 22:33:48 --> 404 Page Not Found: jollofadmin/Banners/undefined
+ERROR - 2018-11-02 22:35:31 --> Severity: Notice --> Undefined variable: lifestylebanners C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 521
+ERROR - 2018-11-02 22:35:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 521
+ERROR - 2018-11-02 22:35:31 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:35:31 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:35:31 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:35:32 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:36:34 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:36:34 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:36:34 --> Severity: Notice --> Undefined variable: l_bannerl_banner C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 578
+ERROR - 2018-11-02 22:36:34 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:36:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:38:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:38:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:38:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:39:42 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:40:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:40:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:42:05 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE) C:\xampp\htdocs\JollofCuisineWeb1\application\controllers\Pages.php 40
+ERROR - 2018-11-02 22:42:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:42:49 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:42:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:43:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:43:26 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:50:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:51:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:52:00 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:52:44 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:53:40 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:53:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:54:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:54:26 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 22:54:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:12:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 975
+ERROR - 2018-11-02 23:12:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 1098
+ERROR - 2018-11-02 23:12:30 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:15:08 --> Severity: Notice --> Undefined variable: banners C:\xampp\htdocs\JollofCuisineWeb1\application\views\comming_soon\index.php 29
+ERROR - 2018-11-02 23:15:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\comming_soon\index.php 29
+ERROR - 2018-11-02 23:15:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:16:46 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 1394
+ERROR - 2018-11-02 23:17:00 --> Severity: error --> Exception: syntax error, unexpected end of file C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 1394
+ERROR - 2018-11-02 23:20:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\JollofCuisineWeb1\application\views\oye_mainpage_v\index.php 1109
+ERROR - 2018-11-02 23:20:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:21:41 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:22:14 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:22:37 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:22:38 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:22:51 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:24:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:25:57 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:26:41 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:27:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:27:54 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:28:12 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:28:36 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:29:57 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:30:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:30:56 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:31:22 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:31:47 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:32:08 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:32:14 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:34:27 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:34:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:35:19 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:36:46 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-02 23:37:34 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:37:34 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:37:34 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:38:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:38:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:38:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:38:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:38:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:39:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:39:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:03 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:03 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:03 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:04 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:04 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:04 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:40:50 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:41:06 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:41:07 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:41:07 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:41:07 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:41:07 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:18 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:18 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:18 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:18 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:45:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:45:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:12 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:12 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:12 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:12 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:12 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:23 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:23 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:23 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:46:57 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:47:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:47:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:47:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:47:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:47:35 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:54 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:48:57 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:49:13 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:49:13 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:49:13 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:49:13 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:49:14 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:49:14 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:49:14 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:17 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:43 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:58:43 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:43 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:58:44 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:19 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:20 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:59:52 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-02 23:59:52 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:53 --> 404 Page Not Found: Assets/img
+ERROR - 2018-11-02 23:59:53 --> 404 Page Not Found: Assets/img

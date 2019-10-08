@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-11-19 10:29:03 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:29:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:29:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:29:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:29:13 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:29:16 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:29:16 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:58:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:58:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:58:29 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:58:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:58:45 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:58:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:58:55 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:59:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:59:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:59:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 10:59:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 10:59:28 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 11:02:19 --> 404 Page Not Found: Assetsjs/bootstrap.min.js
+ERROR - 2018-11-19 11:02:20 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-19 11:02:20 --> 404 Page Not Found: Assetsjs/bootstrap.min.js
+ERROR - 2018-11-19 11:02:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 11:02:20 --> 404 Page Not Found: Assets/assets
+ERROR - 2018-11-19 11:04:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-11-19 11:04:20 --> 404 Page Not Found: Assets/css
+ERROR - 2018-11-19 11:04:20 --> 404 Page Not Found: Assets/css
